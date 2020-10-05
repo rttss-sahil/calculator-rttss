@@ -1,3 +1,6 @@
 # calculator-rttss
 
-#https://rttss.github.io/calculator-rttss/
+
+
+#https://calculator-rttss.netlify.app/
+Deployed at Netlify
